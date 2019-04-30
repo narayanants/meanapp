@@ -10,8 +10,6 @@ pipeline {
 
     agent any
 
-    /* Jenkins Stages*/
-    
     stages {
 
         stage('Clone repository') {
