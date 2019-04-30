@@ -1,3 +1,5 @@
+/*Jenkins file for Simple MEAN Application*/
+
 pipeline {
     environment {
         registry = "narayanants/meanapp"
