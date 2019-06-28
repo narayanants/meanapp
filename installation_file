@@ -1,1 +1,4 @@
+To avoid Docker lock Error:
+===========================
+
 chmod 777 /var/run/docker.sock
