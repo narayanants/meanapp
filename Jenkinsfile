@@ -2,7 +2,7 @@
 
 pipeline {
     environment {
-        registry = "narayanants/someapp"
+        registry = "narayanants/jenkinsapp"
         registryCredential = 'dockerhub'
         dockerImage = ''
     }
